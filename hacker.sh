@@ -1,6 +1,6 @@
 #!/bin/bash
-#hackera.sh
-# coded by: hacker ali 17
+#hackera.ali.17
+# coded by:hackera.sh
 # If you use any part from this code, giving me the credits. Read the Lincense!
 
 trap 'printf "\n";stop' 2
