@@ -7,7 +7,7 @@ pkg install bash
 
 انت لان تبت لازم تبت لاداة 
 
-git clone https://github.com/hackermohamedPro/ALIENS.HaCK.Camera
+git clonehttps://github.com/hacker-ali-17/hacker.ali17v8.0.git
 
 
 جيد ادخل للاداة 
