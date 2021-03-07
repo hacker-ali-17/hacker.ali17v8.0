@@ -1,4 +1,4 @@
-﻿# hacker ali 17 داة صنع رابط ملغم ارسل رابط للضحية 
+﻿# hacker ali 17 اداة صنع رابط ملغم ارسل رابط للضحية 
 
 1-pkg install python
 
@@ -15,8 +15,10 @@ git clonehttps://github.com/hacker-ali-17/hacker.ali17v8.0.git
 
 جيد ادخل للاداة 
 
-
 cd hacker.ali17 v8.0
 
+تشغيل اداة 
+
+python2 hacker.ali17.sh
 
 
