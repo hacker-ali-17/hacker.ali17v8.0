@@ -8,7 +8,7 @@
 
 4-pkg install bash
 
-انت لان تبت لازم تبت لاداة 
+طريقة تثبت لاداة 
 
 git clonehttps://github.com/hacker-ali-17/hacker.ali17v8.0.git
 
