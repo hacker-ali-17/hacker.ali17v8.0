@@ -1,5 +1,5 @@
 #!/bin/bash
-#hacker.ali.17v8.0
+#hackera.sh
 # coded by: hacker ali 17
 # If you use any part from this code, giving me the credits. Read the Lincense!
 
