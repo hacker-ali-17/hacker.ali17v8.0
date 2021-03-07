@@ -1,5 +1,5 @@
 #!/bin/bash
-#hacker.ali.17 v8.0
+#hacker.ali.17v8.0
 # coded by: hacker ali 17
 # If you use any part from this code, giving me the credits. Read the Lincense!
 
@@ -8,7 +8,7 @@ trap 'printf "\n";stop' 2
 banner() {
 
 
-printf "          *  \e[1;31m     Welcome To The New World Of Hacker's (hacker ali 17)  \e[1;32m      *
+printf "          *  \e[1;31m     Welcome To The New World Of Hacker's hacker ali 17  \e[1;32m      *
 
                 
            
