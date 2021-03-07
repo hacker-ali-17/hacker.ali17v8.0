@@ -1,5 +1,6 @@
 #!/bin/bash
-#hacker ali17 v8.0# coded by: hacker ali 17
+#hacker.ali.17 v8.0
+# coded by: hacker ali 17
 # If you use any part from this code, giving me the credits. Read the Lincense!
 
 trap 'printf "\n";stop' 2
