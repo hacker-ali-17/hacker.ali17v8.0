@@ -1,9 +1,9 @@
 ﻿# hacker ali 17 داة صنع رابط ملغم ارسل رابط للضحية 
 
-pkg install python
-pkg install python2
-pkg install php
-pkg install bash
+1-pkg install python
+2-pkg install python2
+3-pkg install php
+4-pkg install bash
 
 انت لان تبت لازم تبت لاداة 
 
