@@ -6,18 +6,10 @@ trap 'printf "\n";stop' 2
 
 banner() {
 
-
 printf "          *  \e[1;31m     Welcome To The New World Of Hacker's (hacker ali 17)  \e[1;32m      *
 
 
-
-echo: _              _                   _  _     _  ___
-echo: | |_  ___  ___ <_> ___  _ _    ___ | |<_>   / ||_  |
-echo: | . |<_> |/ | '| |/ ._>| '_>_ <_> || || | _ | | / /
-echo: |_|_|<___|\_|_.| |\___.|_| <_><___||_||_|<_>|_|/_/
-echo:             <__'                                 _              _                   _  _     _  ___
-
-                                
+                               
 \e[1;33m )_/  \e[1;31mHACKER BY        MOHAMD LKAMILI
 \e[1;33m )_/  \e[1;31mHACKER BY ALIENS
 LINK\e[1;31m FACEBOOK hacker ali 17 : https://www.facebook.com/profile.php?id=100010795364272
