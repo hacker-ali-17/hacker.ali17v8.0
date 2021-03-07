@@ -6,15 +6,27 @@ trap 'printf "\n";stop' 2
 
 banner() {
 
+
 printf "          *  \e[1;31m     Welcome To The New World Of Hacker's (hacker ali 17)  \e[1;32m      *
 
-
-                               
-\e[1;33m )_/  \e[1;31mHACKER BY        MOHAMD LKAMILI
+                 \e[1;33m* \e[1;32m      *       ╱▔▔▔▔▔▔▔▔╲       *    \e[1;33m   * \e[1;32m
+                 \e[1;31m    * \e[1;31m      * \e[1;32m  ▏\e[1;31mALIENS \e[1;32m▕   \e[1;31m*      \e[1;31m * \e[1;32m
+            \e[1;31m*   \e[1;32m * \e[1;33m      *      \e[1;32m▕\e[1;31m ╭━╮\e[1;32m┈┈\e[1;31m╭━╮\e[1;32m▕     \e[1;33m  *      \e[1;32m * \e[1;31m   * \e[1;32m
+                                 ╲\e[1;31m╰━╯\e[1;32m╱╲\e[1;31m╰━╯\e[1;32m╱ 
+                  \e[1;32m   (@\e[1;33m_\e[1;31m \e[1;32m  \e[1;33m2019\e[1;32m \e[1;32m  ▏╮┈▔▔┈╭▕ \e[1;31m  By:\e[1;32m {\e[1;33m BiG TiTOo \e[1;32m}
+              \e[1;32m _     \e[1;33m ) \_\e[1;32m_____\e[1;31m____\e[1;31m┣╋╋╋╋┫\e[1;31m____\e[1;32m_______________
+             \e[1;32m (_)\e[31m@8@8\e[1;32m{}< \e[1;33m_\e[1;32m_____\e[1;31m________\e[1;31m______\e[1;32m_______________\\
+                     \e[1;33m )_/  \e[1;31m    ;;; ┣╋╋╋╋┫ ;;;
+                    \e[1;32m (@      \e[1;31m  ;;\e[1;32m ╲▂▂▂▂▂▂╱ \e[31m;;
+           
+           
+\e[1;33m )_/  \e[1;31mHACKER BY       hacker ali 17
 \e[1;33m )_/  \e[1;31mHACKER BY ALIENS
 LINK\e[1;31m FACEBOOK hacker ali 17 : https://www.facebook.com/profile.php?id=100010795364272
 LINK\e[1;31m   github : https://github.com/hacker-ali-17
 LINK\e[1;31m  youtube :https://www.youtube.com/channel/UCmEkXHi9eq0jU_tBT3BfBeQ
+
+
 
 }
 
