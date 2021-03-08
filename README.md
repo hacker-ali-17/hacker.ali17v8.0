@@ -10,7 +10,7 @@
 
 طريقة تثبت لاداة 
 
-git clonehttps://github.com/hacker-ali-17/hacker.ali17v8.0.git
+git clone https://github.com/hacker-ali-17/hacker.ali17v8.0.git
 
 
 جيد ادخل للاداة 
