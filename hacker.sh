@@ -14,7 +14,7 @@ printf "          *  \e[1;31m     Welcome To The New World Of Hacker's HACKER AL
            
            
 \e[1;33m )_/  \e[1;31HACKER BY       HACKER ALI 17
-LINK\e[1;31m FACEBOOK hacker ali 17 : https://www.facebook.com/profile.php?id=100010795364272
+LINK\e[1;31m FACEBOOK HACKER ALI 17 : https://www.facebook.com/profile.php?id=100010795364272
 LINK\e[1;31m   GITHUB : https://github.com/hacker-ali-17
 LINK\e[1;31m  YOUTUBE :https://www.youtube.com/channel/UCmEkXHi9eq0jU_tBT3BfBeQ
 
