@@ -19,6 +19,6 @@ cd hacker.ali17v8.0
 
 تشغيل اداة 
 
-python2 hacker.ali17.sh
+python2 hacker.sh
 
 
