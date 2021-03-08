@@ -13,7 +13,7 @@ printf "          *  \e[1;31m     Welcome To The New World Of Hacker's hacker al
                 
            
            
-\e[1;33m )_/  \e[1;31mHACKER BY       hacker ali 17
+\e[1;33m )_/  \e[1;31HACKER BY       hacker ali 17
 LINK\e[1;31m FACEBOOK hacker ali 17 : https://www.facebook.com/profile.php?id=100010795364272
 LINK\e[1;31m   github : https://github.com/hacker-ali-17
 LINK\e[1;31m  youtube :https://www.youtube.com/channel/UCmEkXHi9eq0jU_tBT3BfBeQ
