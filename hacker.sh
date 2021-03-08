@@ -1,5 +1,5 @@
 #!/bin/bash
-# HACKER.ALI17 V8.0
+# HACKER.ALI 17 V8.0
 # coded by: HACKER ALI
 # If you use any part from this code, giving me the credits. Read the Lincense!
 
